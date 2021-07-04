@@ -1,3 +1,9 @@
+Hi, I'm Martin. I write Rust frameworks.
+- See my [Sponsor](https://github.com/sponsors/MartinKavik) page for more info.
+- If you want to jump into the Rust fullstack framework MoonZoon, read my [5. Dev News blog post](https://dev.to/martinkavik/moonzoon-dev-news-5-chat-example-moonzoon-cloud-5de4).
+
+---
+
 <p align="center">
   <img src="images/kavik_logo.png" width="500" title="Martin Kavík logo">
 </p>
